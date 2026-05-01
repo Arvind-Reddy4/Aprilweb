@@ -1,0 +1,14 @@
+div{
+    background-color: rgb(66, 66, 202) ;
+    text-align: center;
+    width : 250px;
+    height : 200 px;
+    border-radius : 30px;
+    box-shadow: 0 10px 10px red;
+   
+ }
+h1{
+    color: red;
+    font-size: 50px;
+    font-family: fantasy;
+}
